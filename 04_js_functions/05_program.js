@@ -27,8 +27,7 @@ displayMenu();
 
 
 /* Further Adventures
- *
- *
+ 
  * 1) Declare number1, number2 and result variables.
  *
  * 2) Assign values to the variables.
