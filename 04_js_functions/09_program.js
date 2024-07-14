@@ -19,7 +19,7 @@ var movie = {
   
   
   showMovieInfo();
-  
+
 var movie = {};
 showMovieInfo();
 
