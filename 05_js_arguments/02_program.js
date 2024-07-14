@@ -12,7 +12,7 @@ showMessage = function () {
 };
 
 showMessage();
-;
+
 
 
 
