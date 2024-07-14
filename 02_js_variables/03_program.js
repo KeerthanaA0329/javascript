@@ -1,34 +1,22 @@
-// A book as an object
+// Using a variable
 
-var book;
-
-book = {
-    title : "The Hobbit, or There and Back Again",
-    author : "J. R. R. Tolkien",
-    published : 1937
-};
-
-console.log(book);
-
-// Creating book2 object
-var book2 = {
-    title: "Harry Potter and the Philosopher's Stone",
-    author: "J.K. Rowling",
-    published: 1997
-};
-
-console.log(book2);
+var score;
+score = 100;
+console.log(score);
+score = 200;
+console.log(score);
 
 
 
 /* Further Adventures
  *
- * 1) Change the title of book to
- *    "The Hobbit, or There and Back Again".
+ * 1) Change the value assigned to score.
  *    Run the program again.
  *
- * 2) Try creating a book2 object.
+ * 2) Declare a second variable, maybe score2.
  *
- * 3) Log book2 to the console.
+ * 3) Assign your variable a value.
+ *
+ * 4) Use console.log to display your variable on the console.
  *
  */
