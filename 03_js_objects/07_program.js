@@ -19,7 +19,6 @@ console.log(book2);
 /* Further Adventures
  *
  * 1) Add a third property to each book.
- *    Don't forget the commas.
  *
  * 2) Add spaces so that the colons line up.
  *
